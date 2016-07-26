@@ -5,7 +5,7 @@
 ## 使い方
 
 ```
-% git clone https://github.com/napo0703/zoi.zh
+% git clone git@github.com:napo0703/zoi.sh.git
 % echo alias zoi="sh ~/zoi.sh/zoi.sh" >> .zshrc
 % zoi
 ```
