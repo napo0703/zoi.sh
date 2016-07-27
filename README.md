@@ -7,6 +7,8 @@
 ```
 % git clone git@github.com:napo0703/zoi.sh.git
 % echo alias zoi="sh ~/zoi.sh/zoi.sh" >> .zshrc
+% source .zshrc
+
 % zoi
 ```
 
